@@ -19,7 +19,7 @@ ACCIONES DISPONIBLES:
 hazEl = acciones.Acciones()
 #-------------------------------------------------------
 #Programa pregunta la acción a realizar y la guarda en la variable "accion"
-accion = input("¿Qué quieres hacer? ")
+accion = input("¿Qué desea hacer? ")
 #-------------------------------------------------------
 #Mediante la condicional if el programa decide si se ejecuta el bloque de acciones de registro o login
 #ambos bloques de acciones se encuentran en el paquete usuarios en la clase acciones.
